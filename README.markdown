@@ -1,5 +1,8 @@
 # Battleship Game
 
+## Introduction
+This was my first *big* project into my programming journey. I learned a lot about game cases, logic and had a lot of fun (mostly when it actually complies and runs)!
+
 ## Overview
 This is a Java implementation of the classic Battleship game, supporting both single-player (against a computer) and two-player modes. Players place ships on a 10x10 grid and take turns attacking each other's grids to sink all opponent ships.
 
