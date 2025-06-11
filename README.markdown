@@ -78,6 +78,3 @@ Feel free to fork the repository, make improvements, and submit pull requests. S
 - Improved computer AI for smarter attacks.
 - Enhanced graphics or UI (e.g., using JavaFX).
 - Saving and loading game states.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
